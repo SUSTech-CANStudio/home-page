@@ -4,6 +4,8 @@ title: Team Manual
 sidebar_label: Team Manual
 ---
 
+![](../static/img/can-brick-cover.jpg)
+
 # 罐头团队介绍
 
 ## 0. 组织性质
